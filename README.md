@@ -1,19 +1,3 @@
-# Módulo 3 - Trilha HTML
+## Desafio de Projeto - Wikipedia com layout moderno
 
-**Título:** Recriando Wikipedia, com um layout melhor :)
-
-## Objetivo
-Este desafio consiste em treinar você com relação a estrutura do site, e também aplicar conhecimentos adiquiridos sobre semântica e acessibilidade.
-
-## Desafio
-Neste repositório tem uma estrutura básica já pré-montada de um layout simples com um pouco de CSS aplicado. Apenas para deixar mais apresentável.
-
-Fiquem a vontade para criar da forma que desejarem, e sobre os temas que quiserem. O intuito aqui é divertir, e ao mesmo tempo aprender com o desafio.
-
-Sigam as intruções da chamada do vídeo. Acredito que por lá, ficará mais fácil de entenderem como proceder.
-
-## Links úteis
-- [Download do NVDA](https://www.nvaccess.org/download/)
-- [Wikipedia](https://pt.wikipedia.org/)
-
-
+Este repositório foi criado com o propósito de cumprir o desafio de projeto da terceira trilha HTML da Dio. O projeto conta com uma refatoração de páginas de artigo de séries de TV como da wikipédia, porém usando estruturas semânticas referentes ao HTML 5 assim como uso de tags discutidas durante a trilha.
